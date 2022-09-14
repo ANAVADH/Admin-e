@@ -56,5 +56,4 @@ const admin = JSON.parse(JSON.parse(localStorage.getItem("persist:root"))?.user)
 }
 
 export default App;
-// --openssl-legacy-provider build
-// --openssl-legacy-provider start
+
