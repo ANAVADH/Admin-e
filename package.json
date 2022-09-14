@@ -1,7 +1,10 @@
 {
-  "name": "lamaadmin",
+  "name": "lamadmin",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "18.3.0"
+  },
   "dependencies": {
     "@firebase/storage": "^0.9.9",
     "@material-ui/core": "^4.11.4",
