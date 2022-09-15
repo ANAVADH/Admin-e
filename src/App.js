@@ -1,5 +1,5 @@
 import React from 'react'
-import Sidebar from "./components/sidebar/Sidebar";
+import Sidebar from "./components/sidebar/Sidebar.jsx";
 import Topbar from "./components/topbar/Topbar";
 import "./App.css";
 import Home from "./pages/home/Home";
